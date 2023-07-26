@@ -39,3 +39,7 @@ INSERT INTO aprendices (nombre_usuario, correo, edad, estado, intereses)
 VALUES ('Juan', 'juan@gmail.com', 21, 1, 'jugar');
 
 -- SELECT * FROM <nametable> (realicemos una consulta para recuperar los datos ingresados en la tabla aprendices)
+
+/usr/local/mysql/bin/mysql -u root -p
+
+
